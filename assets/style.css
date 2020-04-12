@@ -1,0 +1,112 @@
+.box3 {
+  background: white;
+  width: 460px;
+  height: 350px;
+  position: absolute;
+  left: 1450px;
+  top:510px;
+  transition: 2s;
+  opacity: 0;
+}
+.img {
+  height:250px;
+  width:600px;
+}
+.img2 {
+  height:150px;
+  width: 450px;
+}
+.boxs {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+}
+.borderr {
+  border: solid;
+}
+.firsBox {
+  background-image: url(img/dipper.png);
+  background-size: 100% 100%;
+}
+.bg {
+  background-image: url(img/bg.jpg);
+}
+.vaccine {
+  background-image: url(img/vaccine.png);
+  background-size: 100% 100%;
+}
+.ma {
+  background-image: url(img/ma.jpg);
+  background-size: 100% 100%;
+}
+.bill {
+  background-image: url(img/bill.gif);
+  background-size: 100% 100%;
+}
+.voz {
+  background-image: url(img/voz.png);
+  background-size: 100% 100%;
+}
+.belarus {
+  background-image: url(img/belarus.jpg);
+  background-size: 100% 100%;
+}
+.bg-white {
+  background-color: white;
+}
+.exp {
+  background-image: url(img/candy.jpg);
+  background-size: 100% 100%;
+}
+.money {
+  background-image: url(img/money.jpg);
+  background-size: 100% 100%;
+}
+.eu {
+  background-image: url(img/eu.jpg);
+  background-size: 100% 100%;
+}
+.mask {
+  background-image: url(img/mask.jpg);
+  background-size: 100% 100%;
+}
+.nalog {
+  background-image: url(img/agent1.png);
+  background-size: 100% 100%;
+}
+.med {
+  background-image: url(img/med.jpg);
+  background-size: 100% 100%;
+}
+.isolation {
+  background-image: url(img/isolation.jpg);
+  background-size: 100% 100%;
+}
+.land1 {
+  background-image: url(img/land1.jpg);
+  background-size: 100% 100%;
+}
+.land3 {
+  background-image: url(img/land3.jpg);
+  background-size: 100% 100%;
+}
+.land5 {
+  background-image: url(img/land5.jpg);
+  background-size: 100% 100%;
+}
+.intro {
+  height: 500px;
+  width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url(img/bg-start.jpg);
+  background-size: 100% 100%;
+  position: absolute;
+  transition: 1s;
+  top: 10050px;
+  left: 25%;
+}
+.img-about {
+  height: 200px;
+  width: 350px;
+}
